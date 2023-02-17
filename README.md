@@ -1,2 +1,2 @@
 # WEBIIIA
-Repositorio da turma A
+supositorio da turma A
